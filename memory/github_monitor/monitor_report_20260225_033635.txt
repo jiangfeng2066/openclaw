@@ -1,0 +1,26 @@
+
+=== GitHub 热门项目监控报告 ===
+生成时间: 2026-02-25T03:36:35.349151
+监控条件: 最近7天创建, star数 > 5000
+
+📊 搜索统计:
+- 符合条件的仓库总数: 0
+- 本次发现的新仓库: 0
+- 累计跟踪仓库数: 0
+
+🔄 监控状态:
+- 总检查次数: 1
+- 最后检查时间: None
+- 首次监控时间: 2026-02-25T03:36:33.535874
+
+📭 本次未发现新项目
+
+💾 数据存储:
+- 状态文件: /root/.openclaw/workspace/memory/github_monitor/monitor_state.json
+- 项目数据库: /root/.openclaw/workspace/memory/github_monitor/projects.json
+- 项目数量: 0 个
+
+🔄 建议:
+1. 调整监控条件可修改 min_stars 和 days_back 参数
+2. 如需更频繁监控，请调整Cron任务频率
+3. 重要项目可设置特别关注
