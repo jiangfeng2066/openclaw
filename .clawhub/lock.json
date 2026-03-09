@@ -4,6 +4,10 @@
     "multi-search-engine": {
       "version": "2.0.1",
       "installedAt": 1771922857632
+    },
+    "polyclaw": {
+      "version": "1.0.2",
+      "installedAt": 1772959267710
     }
   }
 }
